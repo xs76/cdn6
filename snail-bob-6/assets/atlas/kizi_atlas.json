@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "kizi_splash_bg_cloud",
+	"frame": {"x":228,"y":1,"w":1279,"h":213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1279,"h":213},
+	"sourceSize": {"w":1279,"h":213}
+},
+{
+	"filename": "kizi_splash_button",
+	"frame": {"x":682,"y":262,"w":427,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":149},
+	"sourceSize": {"w":427,"h":149}
+},
+{
+	"filename": "kizi_splash_button_onpush",
+	"frame": {"x":1111,"y":262,"w":427,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":149},
+	"sourceSize": {"w":427,"h":149}
+},
+{
+	"filename": "kizi_splash_loader",
+	"frame": {"x":682,"y":216,"w":931,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":931,"h":44},
+	"sourceSize": {"w":931,"h":44}
+},
+{
+	"filename": "kizi_splash_spritesheet-0",
+	"frame": {"x":1,"y":231,"w":225,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":7,"w":225,"h":227},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "kizi_splash_spritesheet-1",
+	"frame": {"x":1,"y":1,"w":225,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":7,"w":225,"h":228},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "kizi_splash_spritesheet-2",
+	"frame": {"x":228,"y":216,"w":225,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":7,"w":225,"h":228},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "kizi_splash_spritesheet-3",
+	"frame": {"x":455,"y":216,"w":225,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":7,"w":225,"h":228},
+	"sourceSize": {"w":250,"h":250}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "kizi_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1614,"h":459},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c29555d2d18600709db8ef93c8002e2e:30fe59c1d2a6323b8a65bdbd4f643fc9:58711906fc16c5a5f901014b71e3aae2$"
+}
+}

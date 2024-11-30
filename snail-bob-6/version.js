@@ -1,0 +1,10 @@
+version="2";
+libs=[
+    "./build/phaser-ads.min.js",
+    "./build/phaser-cachebuster.min.js",
+    "./build/phaser-i18next.min.js",
+    "./build/phaser-nineslice.min.js",
+    "./build/phaser-spine.min.js",
+    "./build/phaser-super-storage.min.js",
+    "./build/splash.min.js"
+];

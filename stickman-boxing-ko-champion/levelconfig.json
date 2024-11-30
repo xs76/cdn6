@@ -1,0 +1,525 @@
+{
+    "lvl":{
+        "1":{
+            "enemy":{
+                "esquiveUp":20,
+                "esquiveDown":20,
+                "timeMinHit":1.5,
+                "timeMaxHit":2.5,
+                "hp":31,
+                "nbEnemy":2,
+                "nbKo":2,
+                "hpKo": [25,20],
+                "hit" : [35,40],
+                "degatCrochet":8,
+                "degatUpercut":9,
+                "degatCoupDroit":12
+            },
+            "player":{
+                "hp":50,
+                "degatCrochet":2.5,
+                "degatUpercut":2.5,
+                "degatCoupDroit":2.5,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":10,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "2":{
+            "enemy":{
+                "esquiveUp":22,
+                "esquiveDown":22,
+                "timeMinHit":1.5,
+                "timeMaxHit":2.5,
+                "hp":32,
+                "nbEnemy":2,
+                "nbKo":2,
+                "hpKo": [25,20],
+                "hit" : [35,40],
+                "degatCrochet":9,
+                "degatUpercut":10,
+                "degatCoupDroit":12
+            },
+            "player":{
+                "hp":50,
+                "degatCrochet":2.5,
+                "degatUpercut":2.5,
+                "degatCoupDroit":2.5,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":11,
+                "hitForEnd" : [10,20]
+            }
+        }
+        ,
+        "3":{
+            "enemy":{
+                "esquiveUp":24,
+                "esquiveDown":24,
+                "timeMinHit":1.5,
+                "timeMaxHit":2.5,
+                "hp":38,
+                "nbEnemy":2,
+                "nbKo":2,
+                "hpKo": [30,25],
+                "hit" : [35,40],
+                "degatCrochet":10,
+                "degatUpercut":11,
+                "degatCoupDroit":13
+            },
+            "player":{
+                "hp":50,
+                "degatCrochet":2.5,
+                "degatUpercut":2.5,
+                "degatCoupDroit":2.5,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":12,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "4":{
+            "enemy":{
+                "esquiveUp":25,
+                "esquiveDown":25,
+                "timeMinHit":1.5,
+                "timeMaxHit":2.5,
+                "hp":44,
+                "nbEnemy":2,
+                "nbKo":2,
+                "hpKo": [30,25],
+                "hit" : [35,40],
+                "degatCrochet":11,
+                "degatUpercut":11,
+                "degatCoupDroit":12
+            },
+            "player":{
+                "hp":55,
+                "degatCrochet":2.5,
+                "degatUpercut":2.5,
+                "degatCoupDroit":2.5,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":15,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "5":{
+            "enemy":{
+                "esquiveUp":30,
+                "esquiveDown":30,
+                "timeMinHit":1,
+                "timeMaxHit":2.5,
+                "hp":49,
+                "nbEnemy":2,
+                "nbKo":2,
+                "hpKo": [40,35],
+                "hit" : [35,40],
+                "degatCrochet":15,
+                "degatUpercut":15,
+                "degatCoupDroit":15
+            },
+            "player":{
+                "hp":65,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":16,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "6":{
+            "enemy":{
+                "esquiveUp":26,
+                "esquiveDown":26,
+                "timeMinHit":1,
+                "timeMaxHit":2.5,
+                "hp":51,
+                "nbEnemy":3,
+                "nbKo":2,
+                "hpKo": [45,40],
+                "hit" : [35,40],
+                "degatCrochet":12,
+                "degatUpercut":9,
+                "degatCoupDroit":10
+            },
+            "player":{
+                "hp":65,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":17,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "7":{
+            "enemy":{
+                "esquiveUp":28,
+                "esquiveDown":28,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":53,
+                "nbEnemy":3,
+                "nbKo":2,
+                "hpKo": [45,40],
+                "hit" : [35,40],
+                "degatCrochet":9,
+                "degatUpercut":9,
+                "degatCoupDroit":10
+            },
+            "player":{
+                "hp":65,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":18,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "8":{
+            "enemy":{
+                "esquiveUp":30,
+                "esquiveDown":30,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":53,
+                "nbEnemy":3,
+                "nbKo":2,
+                "hpKo": [45,40],
+                "hit" : [35,40],
+                "degatCrochet":10,
+                "degatUpercut":11,
+                "degatCoupDroit":12
+            },
+            "player":{
+                "hp":65,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":19,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "9":{
+            "enemy":{
+                "esquiveUp":32,
+                "esquiveDown":32,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":59,
+                "nbEnemy":3,
+                "nbKo":2,
+                "hpKo": [50,40],
+                "hit" : [35,40],
+                "degatCrochet":13,
+                "degatUpercut":13,
+                "degatCoupDroit":8
+            },
+            "player":{
+                "hp":70,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":1,
+                "ultimateByHit": 10,
+                "degatUltimate":20,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "10":{
+            "enemy":{
+                "esquiveUp":34,
+                "esquiveDown":34,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":65,
+                "nbEnemy":3,
+                "nbKo":2,
+                "hpKo": [55,40],
+                "hit" : [35,40],
+                "degatCrochet":10,
+                "degatUpercut":8,
+                "degatCoupDroit":10
+            },
+            "player":{
+                "hp":75,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":25,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "11":{
+            "enemy":{
+                "esquiveUp":36,
+                "esquiveDown":36,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":66,
+                "nbEnemy":4,
+                "nbKo":2,
+                "hpKo": [55,45],
+                "hit" : [35,40],
+                "degatCrochet":15,
+                "degatUpercut":10,
+                "degatCoupDroit":16
+            },
+            "player":{
+                "hp":75,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":25,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "12":{
+            "enemy":{
+                "esquiveUp":38,
+                "esquiveDown":38,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":67,
+                "nbEnemy":4,
+                "nbKo":2,
+                "hpKo": [55,45],
+                "hit" : [35,40],
+                "degatCrochet":18,
+                "degatUpercut":9,
+                "degatCoupDroit":9
+            },
+            "player":{
+                "hp":75,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":25,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "13":{
+            "enemy":{
+                "esquiveUp":40,
+                "esquiveDown":40,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":68,
+                "nbEnemy":4,
+                "nbKo":2,
+                "hpKo": [60,45],
+                "hit" : [35,40],
+                "degatCrochet":2.5,
+                "degatUpercut":2.5,
+                "degatCoupDroit":2.5
+            },
+            "player":{
+                "hp":75,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":2,
+                "ultimateByHit":15,
+                "degatUltimate":25,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "14":{
+            "enemy":{
+                "esquiveUp":42,
+                "esquiveDown":42,
+                "timeMinHit":1,
+                "timeMaxHit":3,
+                "hp":74,
+                "nbEnemy":4,
+                "nbKo":2,
+                "hpKo": [60,45],
+                "hit" : [35,40],
+                "degatCrochet":10,
+                "degatUpercut":15,
+                "degatCoupDroit":16
+            },
+            "player":{
+                "hp":80,
+                "degatCrochet":3,
+                "degatUpercut":3,
+                "degatCoupDroit":3,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":25,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "15":{
+            "enemy":{
+                "esquiveUp":44,
+                "esquiveDown":44,
+                "timeMinHit":1,
+                "timeMaxHit":2,
+                "hp":80,
+                "nbEnemy":4,
+                "nbKo":2,
+                "hpKo": [65,55],
+                "hit" : [35,40],
+                "degatCrochet":14,
+                "degatUpercut":12,
+                "degatCoupDroit":16
+            },
+            "player":{
+                "hp":85,
+                "degatCrochet":3.5,
+                "degatUpercut":3.5,
+                "degatCoupDroit":3.5,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":30,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "16":{
+            "enemy":{
+                "esquiveUp":46,
+                "esquiveDown":46,
+                "timeMinHit":1,
+                "timeMaxHit":2,
+                "hp":81,
+                "nbEnemy":1,
+                "nbKo":2,
+                "hpKo": [70,55],
+                "hit" : [35,40],
+                "degatCrochet":15,
+                "degatUpercut":13,
+                "degatCoupDroit":14
+            },
+            "player":{
+                "hp":85,
+                "degatCrochet":3.5,
+                "degatUpercut":3.5,
+                "degatCoupDroit":3.5,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":30,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "17":{
+            "enemy":{
+                "esquiveUp":48,
+                "esquiveDown":48,
+                "timeMinHit":1,
+                "timeMaxHit":2,
+                "hp":82,
+                "nbEnemy":1,
+                "nbKo":2,
+                "hpKo": [70,45],
+                "hit" : [35,40],
+                "degatCrochet":18,
+                "degatUpercut":12,
+                "degatCoupDroit":16
+            },
+            "player":{
+                "hp":85,
+                "degatCrochet":3.5,
+                "degatUpercut":3.5,
+                "degatCoupDroit":3.5,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":30,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "18":{
+            "enemy":{
+                "esquiveUp":50,
+                "esquiveDown":50,
+                "timeMinHit":1,
+                "timeMaxHit":2,
+                "hp":83,
+                "nbEnemy":1,
+                "nbKo":2,
+                "hpKo": [75,45],
+                "hit" : [35,40],
+                "degatCrochet":20,
+                "degatUpercut":16,
+                "degatCoupDroit":14
+            },
+            "player":{
+                "hp":85,
+                "degatCrochet":3.5,
+                "degatUpercut":3.5,
+                "degatCoupDroit":3.5,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":30,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "19":{
+            "enemy":{
+                "esquiveUp":52,
+                "esquiveDown":52,
+                "timeMinHit":1,
+                "timeMaxHit":2,
+                "hp":84,
+                "nbEnemy":1,
+                "nbKo":2,
+                "hpKo": [75,60],
+                "hit" : [35,40],
+                "degatCrochet":22,
+                "degatUpercut":21,
+                "degatCoupDroit":10
+            },
+            "player":{
+                "hp":90,
+                "degatCrochet":3.5,
+                "degatUpercut":3.5,
+                "degatCoupDroit":3.5,
+                "stunAfterFail":2,
+                "ultimateByHit": 15,
+                "degatUltimate":30,
+                "hitForEnd" : [10,20]
+            }
+        },
+        "20":{
+            "enemy":{
+                "esquiveUp":55,
+                "esquiveDown":55,
+                "timeMinHit":1,
+                "timeMaxHit":2,
+                "hp":90,
+                "nbEnemy":1,
+                "nbKo":2,
+                "hpKo": [85,75],
+                "hit" : [35,40],
+                "degatCrochet":24,
+                "degatUpercut":23,
+                "degatCoupDroit":21
+            },
+            "player":{
+                "hp":90,
+                "degatCrochet":3.5,
+                "degatUpercut":3.5,
+                "degatCoupDroit":3.5,
+                "stunAfterFail":0.7,
+                "ultimateByHit": 15,
+                "degatUltimate":30,
+                "hitForEnd" : [10,20]
+            }
+        }
+    }
+}
